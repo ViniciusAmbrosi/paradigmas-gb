@@ -1,0 +1,15 @@
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\bin\Debug\net6.0\ParadigmaConcorrente.exe
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\bin\Debug\net6.0\ParadigmaConcorrente.deps.json
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\bin\Debug\net6.0\ParadigmaConcorrente.runtimeconfig.json
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\bin\Debug\net6.0\ParadigmaConcorrente.dll
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\bin\Debug\net6.0\ParadigmaConcorrente.pdb
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\obj\Debug\net6.0\ParadigmaConcorrente.csproj.AssemblyReference.cache
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\obj\Debug\net6.0\ParadigmaConcorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\obj\Debug\net6.0\ParadigmaConcorrente.AssemblyInfoInputs.cache
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\obj\Debug\net6.0\ParadigmaConcorrente.AssemblyInfo.cs
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\obj\Debug\net6.0\ParadigmaConcorrente.csproj.CoreCompileInputs.cache
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\obj\Debug\net6.0\ParadigmaConcorrente.dll
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\obj\Debug\net6.0\refint\ParadigmaConcorrente.dll
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\obj\Debug\net6.0\ParadigmaConcorrente.pdb
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\obj\Debug\net6.0\ParadigmaConcorrente.genruntimeconfig.cache
+C:\Project\paradigmas\trab-gb\ParadigmaConcorrente\ParadigmaConcorrente\obj\Debug\net6.0\ref\ParadigmaConcorrente.dll
